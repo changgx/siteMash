@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="siteMash:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="siteMash.war">
+      <element id="artifact" artifact-name="siteMash:war exploded" />
+    </root>
+  </artifact>
+</component>
